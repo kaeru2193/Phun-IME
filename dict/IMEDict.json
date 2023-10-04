@@ -1,0 +1,3454 @@
+[
+  {
+    "pron": "ha",
+    "word": "人"
+  },
+  {
+    "pron": "nai",
+    "word": "力"
+  },
+  {
+    "pron": "taos",
+    "word": "手"
+  },
+  {
+    "pron": "vetaos",
+    "word": "開手"
+  },
+  {
+    "pron": "xe",
+    "word": "我"
+  },
+  {
+    "pron": "lung",
+    "word": "木"
+  },
+  {
+    "pron": "lungme",
+    "word": "木耳"
+  },
+  {
+    "pron": "so",
+    "word": "水"
+  },
+  {
+    "pron": "soluong",
+    "word": "水丸"
+  },
+  {
+    "pron": "ge",
+    "word": "口"
+  },
+  {
+    "pron": "bua",
+    "word": "食"
+  },
+  {
+    "pron": "baon",
+    "word": "果"
+  },
+  {
+    "pron": "vuosbaon",
+    "word": "赤果"
+  },
+  {
+    "pron": "kus",
+    "word": "汝"
+  },
+  {
+    "pron": "qim",
+    "word": "大"
+  },
+  {
+    "pron": "yao",
+    "word": "小"
+  },
+  {
+    "pron": "mail",
+    "word": "衆"
+  },
+  {
+    "pron": "nun",
+    "word": "国"
+  },
+  {
+    "pron": "ao",
+    "word": "土"
+  },
+  {
+    "pron": "tang",
+    "word": "火"
+  },
+  {
+    "pron": "cai",
+    "word": "草"
+  },
+  {
+    "pron": "vuos",
+    "word": "赤"
+  },
+  {
+    "pron": "kuang",
+    "word": "日"
+  },
+  {
+    "pron": "vas",
+    "word": "天"
+  },
+  {
+    "pron": "kuangvas",
+    "word": "日天"
+  },
+  {
+    "pron": "vovas",
+    "word": "月天"
+  },
+  {
+    "pron": "singvas",
+    "word": "気天"
+  },
+  {
+    "pron": "tangvas",
+    "word": "火天"
+  },
+  {
+    "pron": "qimluong",
+    "word": "大丸"
+  },
+  {
+    "pron": "sovas",
+    "word": "水天"
+  },
+  {
+    "pron": "aovas",
+    "word": "土天"
+  },
+  {
+    "pron": "lungvas",
+    "word": "木天"
+  },
+  {
+    "pron": "dasvas",
+    "word": "山天"
+  },
+  {
+    "pron": "puvas",
+    "word": "雲天"
+  },
+  {
+    "pron": "huavas",
+    "word": "氷天"
+  },
+  {
+    "pron": "vassao",
+    "word": "天思"
+  },
+  {
+    "pron": "aovas",
+    "word": "万天"
+  },
+  {
+    "pron": "vascua",
+    "word": "天船"
+  },
+  {
+    "pron": "qai",
+    "word": "青"
+  },
+  {
+    "pron": "fes",
+    "word": "去"
+  },
+  {
+    "pron": "fesqai",
+    "word": "去知"
+  },
+  {
+    "pron": "fua",
+    "word": "正"
+  },
+  {
+    "pron": "kefua",
+    "word": "目正"
+  },
+  {
+    "pron": "xel",
+    "word": "是"
+  },
+  {
+    "pron": "vo",
+    "word": "月"
+  },
+  {
+    "pron": "vi",
+    "word": "一"
+  },
+  {
+    "pron": "buan",
+    "word": "二"
+  },
+  {
+    "pron": "gaol",
+    "word": "三"
+  },
+  {
+    "pron": "fai",
+    "word": "四"
+  },
+  {
+    "pron": "luong",
+    "word": "五"
+  },
+  {
+    "pron": "bun",
+    "word": "言"
+  },
+  {
+    "pron": "nuobuntuo",
+    "word": "伴言倫"
+  },
+  {
+    "pron": "zen",
+    "word": "晴"
+  },
+  {
+    "pron": "guan",
+    "word": "海"
+  },
+  {
+    "pron": "qimguan",
+    "word": "大海"
+  },
+  {
+    "pron": "juan",
+    "word": "皇"
+  },
+  {
+    "pron": "luam",
+    "word": "王"
+  },
+  {
+    "pron": "ling",
+    "word": "上"
+  },
+  {
+    "pron": "ya",
+    "word": "下"
+  },
+  {
+    "pron": "yaha",
+    "word": "下人"
+  },
+  {
+    "pron": "vuo",
+    "word": "左"
+  },
+  {
+    "pron": "van",
+    "word": "右"
+  },
+  {
+    "pron": "dua",
+    "word": "広"
+  },
+  {
+    "pron": "fun",
+    "word": "栄"
+  },
+  {
+    "pron": "funnun",
+    "word": "栄国"
+  },
+  {
+    "pron": "funzom",
+    "word": "栄民"
+  },
+  {
+    "pron": "yuas",
+    "word": "足"
+  },
+  {
+    "pron": "yuasya",
+    "word": "足下"
+  },
+  {
+    "pron": "yaom",
+    "word": "行"
+  },
+  {
+    "pron": "yaomxo",
+    "word": "行元"
+  },
+  {
+    "pron": "yaomyai",
+    "word": "行場"
+  },
+  {
+    "pron": "ke",
+    "word": "目"
+  },
+  {
+    "pron": "kua",
+    "word": "之"
+  },
+  {
+    "pron": "kuatua",
+    "word": "之時"
+  },
+  {
+    "pron": "kuakuang",
+    "word": "之日"
+  },
+  {
+    "pron": "kualai",
+    "word": "之夜"
+  },
+  {
+    "pron": "kuafuon",
+    "word": "之周"
+  },
+  {
+    "pron": "kuavo",
+    "word": "之月"
+  },
+  {
+    "pron": "kuavais",
+    "word": "之年"
+  },
+  {
+    "pron": "suo",
+    "word": "在"
+  },
+  {
+    "pron": "baim",
+    "word": "居"
+  },
+  {
+    "pron": "peng",
+    "word": "持"
+  },
+  {
+    "pron": "yuo",
+    "word": "内"
+  },
+  {
+    "pron": "lom",
+    "word": "含"
+  },
+  {
+    "pron": "gaing",
+    "word": "今"
+  },
+  {
+    "pron": "tua",
+    "word": "時"
+  },
+  {
+    "pron": "tuaxu",
+    "word": "時盤"
+  },
+  {
+    "pron": "suomtuaxu",
+    "word": "握時盤"
+  },
+  {
+    "pron": "noltuaxu",
+    "word": "腕時盤"
+  },
+  {
+    "pron": "nolhaail",
+    "word": "腕脳機"
+  },
+  {
+    "pron": "taol",
+    "word": "先"
+  },
+  {
+    "pron": "xo",
+    "word": "神"
+  },
+  {
+    "pron": "huo",
+    "word": "雨"
+  },
+  {
+    "pron": "tem",
+    "word": "風"
+  },
+  {
+    "pron": "temjua",
+    "word": "風音"
+  },
+  {
+    "pron": "dail",
+    "word": "飛"
+  },
+  {
+    "pron": "yai",
+    "word": "場"
+  },
+  {
+    "pron": "cen",
+    "word": "其"
+  },
+  {
+    "pron": "heng",
+    "word": "彼"
+  },
+  {
+    "pron": "das",
+    "word": "山"
+  },
+  {
+    "pron": "nes",
+    "word": "心"
+  },
+  {
+    "pron": "wenes",
+    "word": "声心"
+  },
+  {
+    "pron": "sao",
+    "word": "思"
+  },
+  {
+    "pron": "mailsao",
+    "word": "衆思"
+  },
+  {
+    "pron": "xu",
+    "word": "油"
+  },
+  {
+    "pron": "lus",
+    "word": "燃"
+  },
+  {
+    "pron": "be",
+    "word": "家"
+  },
+  {
+    "pron": "bemua",
+    "word": "家網"
+  },
+  {
+    "pron": "habe",
+    "word": "人家"
+  },
+  {
+    "pron": "mailbe",
+    "word": "衆家"
+  },
+  {
+    "pron": "himbe",
+    "word": "造家"
+  },
+  {
+    "pron": "xalbe",
+    "word": "訓家"
+  },
+  {
+    "pron": "xalkaing",
+    "word": "訓働"
+  },
+  {
+    "pron": "vaim",
+    "word": "現"
+  },
+  {
+    "pron": "mam",
+    "word": "光"
+  },
+  {
+    "pron": "mamqo",
+    "word": "光杖"
+  },
+  {
+    "pron": "kaing",
+    "word": "白"
+  },
+  {
+    "pron": "jai",
+    "word": "昼"
+  },
+  {
+    "pron": "lai",
+    "word": "夜"
+  },
+  {
+    "pron": "luong",
+    "word": "丸"
+  },
+  {
+    "pron": "gualuong",
+    "word": "憤丸"
+  },
+  {
+    "pron": "duolna",
+    "word": "粒央"
+  },
+  {
+    "pron": "yaoduolgualuong",
+    "word": "小粒憤丸"
+  },
+  {
+    "pron": "sojaimgualuong",
+    "word": "水材憤丸"
+  },
+  {
+    "pron": "sing",
+    "word": "気"
+  },
+  {
+    "pron": "singsao",
+    "word": "気思"
+  },
+  {
+    "pron": "singcua",
+    "word": "気船"
+  },
+  {
+    "pron": "singluong",
+    "word": "気丸"
+  },
+  {
+    "pron": "fua",
+    "word": "世"
+  },
+  {
+    "pron": "fuaxao",
+    "word": "世画"
+  },
+  {
+    "pron": "fa",
+    "word": "筆"
+  },
+  {
+    "pron": "haisfa",
+    "word": "石筆"
+  },
+  {
+    "pron": "luongfa",
+    "word": "丸筆"
+  },
+  {
+    "pron": "fapaon",
+    "word": "筆杯"
+  },
+  {
+    "pron": "sua",
+    "word": "書"
+  },
+  {
+    "pron": "suafuon",
+    "word": "書門"
+  },
+  {
+    "pron": "cuang",
+    "word": "記"
+  },
+  {
+    "pron": "cuangxu",
+    "word": "記盤"
+  },
+  {
+    "pron": "nescuang",
+    "word": "心記"
+  },
+  {
+    "pron": "zi",
+    "word": "女"
+  },
+  {
+    "pron": "duo",
+    "word": "侶"
+  },
+  {
+    "pron": "lun",
+    "word": "媛"
+  },
+  {
+    "pron": "kem",
+    "word": "状"
+  },
+  {
+    "pron": "qai",
+    "word": "歩"
+  },
+  {
+    "pron": "qaike",
+    "word": "歩目"
+  },
+  {
+    "pron": "lao",
+    "word": "整"
+  },
+  {
+    "pron": "tuo",
+    "word": "倫"
+  },
+  {
+    "pron": "zom",
+    "word": "民"
+  },
+  {
+    "pron": "lo",
+    "word": "眠"
+  },
+  {
+    "pron": "loye",
+    "word": "眠巾"
+  },
+  {
+    "pron": "yaye",
+    "word": "下巾"
+  },
+  {
+    "pron": "loyaye",
+    "word": "眠下巾"
+  },
+  {
+    "pron": "mum",
+    "word": "頭"
+  },
+  {
+    "pron": "mumluo",
+    "word": "頭椅"
+  },
+  {
+    "pron": "vu",
+    "word": "向"
+  },
+  {
+    "pron": "mong",
+    "word": "刈"
+  },
+  {
+    "pron": "mongtua",
+    "word": "刈時"
+  },
+  {
+    "pron": "mongki",
+    "word": "刈終"
+  },
+  {
+    "pron": "kimong",
+    "word": "不刈"
+  },
+  {
+    "pron": "qua",
+    "word": "園"
+  },
+  {
+    "pron": "daoqua",
+    "word": "遊園"
+  },
+  {
+    "pron": "cel",
+    "word": "都"
+  },
+  {
+    "pron": "za",
+    "word": "京"
+  },
+  {
+    "pron": "hai",
+    "word": "喜"
+  },
+  {
+    "pron": "haikus",
+    "word": "喜汝"
+  },
+  {
+    "pron": "haiju",
+    "word": "喜旭"
+  },
+  {
+    "pron": "hailai",
+    "word": "喜夜"
+  },
+  {
+    "pron": "huas",
+    "word": "来"
+  },
+  {
+    "pron": "qo",
+    "word": "字"
+  },
+  {
+    "pron": "funqo",
+    "word": "栄字"
+  },
+  {
+    "pron": "qoxu",
+    "word": "字盤"
+  },
+  {
+    "pron": "i",
+    "word": "欲"
+  },
+  {
+    "pron": "peng",
+    "word": "要"
+  },
+  {
+    "pron": "hilpeng",
+    "word": "做要"
+  },
+  {
+    "pron": "na",
+    "word": "刃"
+  },
+  {
+    "pron": "naduolna",
+    "word": "刃粒央"
+  },
+  {
+    "pron": "wina",
+    "word": "交刃"
+  },
+  {
+    "pron": "bom",
+    "word": "制"
+  },
+  {
+    "pron": "main",
+    "word": "雷"
+  },
+  {
+    "pron": "maincuang",
+    "word": "雷記"
+  },
+  {
+    "pron": "mainye",
+    "word": "雷紙"
+  },
+  {
+    "pron": "yelung",
+    "word": "紙木"
+  },
+  {
+    "pron": "mainha",
+    "word": "雷脳"
+  },
+  {
+    "pron": "mainxao",
+    "word": "雷画"
+  },
+  {
+    "pron": "haail",
+    "word": "脳機"
+  },
+  {
+    "pron": "susha",
+    "word": "帳脳"
+  },
+  {
+    "pron": "lasha",
+    "word": "机脳"
+  },
+  {
+    "pron": "yaombunail",
+    "word": "行言機"
+  },
+  {
+    "pron": "yaombun",
+    "word": "行言"
+  },
+  {
+    "pron": "taosha",
+    "word": "手脳"
+  },
+  {
+    "pron": "mainbun",
+    "word": "雷言"
+  },
+  {
+    "pron": "mainbuncuang",
+    "word": "雷言記"
+  },
+  {
+    "pron": "mainail",
+    "word": "雷機"
+  },
+  {
+    "pron": "mainmam",
+    "word": "雷光"
+  },
+  {
+    "pron": "mainli",
+    "word": "雷透"
+  },
+  {
+    "pron": "limain",
+    "word": "透雷"
+  },
+  {
+    "pron": "suollimain",
+    "word": "並透雷"
+  },
+  {
+    "pron": "mainyao",
+    "word": "雷楽"
+  },
+  {
+    "pron": "zai",
+    "word": "生"
+  },
+  {
+    "pron": "ha",
+    "word": "脳"
+  },
+  {
+    "pron": "dais",
+    "word": "臓"
+  },
+  {
+    "pron": "hua",
+    "word": "氷"
+  },
+  {
+    "pron": "puhuo",
+    "word": "雲雨"
+  },
+  {
+    "pron": "huapu",
+    "word": "氷雲"
+  },
+  {
+    "pron": "pu",
+    "word": "雲"
+  },
+  {
+    "pron": "fuon",
+    "word": "門"
+  },
+  {
+    "pron": "fuonbun",
+    "word": "門言"
+  },
+  {
+    "pron": "fuonmu",
+    "word": "門圧"
+  },
+  {
+    "pron": "fuonqo",
+    "word": "門杖"
+  },
+  {
+    "pron": "mainfuonmu",
+    "word": "雷門圧"
+  },
+  {
+    "pron": "bafuon",
+    "word": "領門"
+  },
+  {
+    "pron": "ve",
+    "word": "開"
+  },
+  {
+    "pron": "ba",
+    "word": "領"
+  },
+  {
+    "pron": "ye",
+    "word": "紙"
+  },
+  {
+    "pron": "suasus",
+    "word": "書帳"
+  },
+  {
+    "pron": "buo",
+    "word": "糸"
+  },
+  {
+    "pron": "caibuo",
+    "word": "草糸"
+  },
+  {
+    "pron": "yolbuo",
+    "word": "獣糸"
+  },
+  {
+    "pron": "aibuo",
+    "word": "琥糸"
+  },
+  {
+    "pron": "haisbuo",
+    "word": "石糸"
+  },
+  {
+    "pron": "ki",
+    "word": "終"
+  },
+  {
+    "pron": "mua",
+    "word": "網"
+  },
+  {
+    "pron": "muadi",
+    "word": "網壁"
+  },
+  {
+    "pron": "mainmua",
+    "word": "雷網"
+  },
+  {
+    "pron": "mailmua",
+    "word": "衆網"
+  },
+  {
+    "pron": "sua",
+    "word": "印"
+  },
+  {
+    "pron": "pe",
+    "word": "政"
+  },
+  {
+    "pron": "peha",
+    "word": "政人"
+  },
+  {
+    "pron": "penai",
+    "word": "政力"
+  },
+  {
+    "pron": "cuo",
+    "word": "虫"
+  },
+  {
+    "pron": "cuoza",
+    "word": "虫痘"
+  },
+  {
+    "pron": "yaocuo",
+    "word": "小虫"
+  },
+  {
+    "pron": "cuncuo",
+    "word": "病虫"
+  },
+  {
+    "pron": "pao",
+    "word": "蛮"
+  },
+  {
+    "pron": "hu",
+    "word": "使"
+  },
+  {
+    "pron": "huail",
+    "word": "使能"
+  },
+  {
+    "pron": "ki",
+    "word": "不"
+  },
+  {
+    "pron": "a",
+    "word": "竹"
+  },
+  {
+    "pron": "lis",
+    "word": "六"
+  },
+  {
+    "pron": "e",
+    "word": "好"
+  },
+  {
+    "pron": "him",
+    "word": "造"
+  },
+  {
+    "pron": "saohim",
+    "word": "思造"
+  },
+  {
+    "pron": "gim",
+    "word": "道"
+  },
+  {
+    "pron": "xo",
+    "word": "元"
+  },
+  {
+    "pron": "yol",
+    "word": "獣"
+  },
+  {
+    "pron": "yolwe",
+    "word": "獣声"
+  },
+  {
+    "pron": "nang",
+    "word": "肉"
+  },
+  {
+    "pron": "nainang",
+    "word": "力肉"
+  },
+  {
+    "pron": "fuon",
+    "word": "周"
+  },
+  {
+    "pron": "fuonke",
+    "word": "周目"
+  },
+  {
+    "pron": "fuonmo",
+    "word": "周隣"
+  },
+  {
+    "pron": "pel",
+    "word": "回"
+  },
+  {
+    "pron": "vais",
+    "word": "年"
+  },
+  {
+    "pron": "i",
+    "word": "男"
+  },
+  {
+    "pron": "jaim",
+    "word": "材"
+  },
+  {
+    "pron": "sojaim",
+    "word": "水材"
+  },
+  {
+    "pron": "mijaim",
+    "word": "暁材"
+  },
+  {
+    "pron": "sijaim",
+    "word": "炭材"
+  },
+  {
+    "pron": "singjaim",
+    "word": "気材"
+  },
+  {
+    "pron": "tangjaim",
+    "word": "火材"
+  },
+  {
+    "pron": "sejaim",
+    "word": "泡材"
+  },
+  {
+    "pron": "minjaim",
+    "word": "礬材"
+  },
+  {
+    "pron": "jajaim",
+    "word": "瑠材"
+  },
+  {
+    "pron": "xaijaim",
+    "word": "尿材"
+  },
+  {
+    "pron": "haomjaim",
+    "word": "硫材"
+  },
+  {
+    "pron": "waosjaim",
+    "word": "塩材"
+  },
+  {
+    "pron": "naisjaim",
+    "word": "骨材"
+  },
+  {
+    "pron": "haojaim",
+    "word": "鉄材"
+  },
+  {
+    "pron": "qaojaim",
+    "word": "銅材"
+  },
+  {
+    "pron": "tuojaim",
+    "word": "銀材"
+  },
+  {
+    "pron": "vajaim",
+    "word": "金材"
+  },
+  {
+    "pron": "fe",
+    "word": "狩"
+  },
+  {
+    "pron": "xe",
+    "word": "豚"
+  },
+  {
+    "pron": "sil",
+    "word": "死"
+  },
+  {
+    "pron": "las",
+    "word": "筋"
+  },
+  {
+    "pron": "sal",
+    "word": "遠"
+  },
+  {
+    "pron": "salquo",
+    "word": "遠立"
+  },
+  {
+    "pron": "da",
+    "word": "灰"
+  },
+  {
+    "pron": "si",
+    "word": "炭"
+  },
+  {
+    "pron": "buansitang",
+    "word": "二炭火"
+  },
+  {
+    "pron": "gaolsosing",
+    "word": "三水気"
+  },
+  {
+    "pron": "waos",
+    "word": "塩"
+  },
+  {
+    "pron": "xe",
+    "word": "稲"
+  },
+  {
+    "pron": "dao",
+    "word": "米"
+  },
+  {
+    "pron": "zo",
+    "word": "粉"
+  },
+  {
+    "pron": "zozo",
+    "word": "粉粉"
+  },
+  {
+    "pron": "duol",
+    "word": "粒"
+  },
+  {
+    "pron": "yaoduol",
+    "word": "小粒"
+  },
+  {
+    "pron": "quo",
+    "word": "立"
+  },
+  {
+    "pron": "len",
+    "word": "基"
+  },
+  {
+    "pron": "lenjaim",
+    "word": "基材"
+  },
+  {
+    "pron": "gon",
+    "word": "恨"
+  },
+  {
+    "pron": "muos",
+    "word": "等"
+  },
+  {
+    "pron": "muosbun",
+    "word": "等言"
+  },
+  {
+    "pron": "fuamuos",
+    "word": "世等"
+  },
+  {
+    "pron": "nuo",
+    "word": "伴"
+  },
+  {
+    "pron": "dao",
+    "word": "遊"
+  },
+  {
+    "pron": "daomis",
+    "word": "遊数"
+  },
+  {
+    "pron": "daosao",
+    "word": "遊思"
+  },
+  {
+    "pron": "kail",
+    "word": "長"
+  },
+  {
+    "pron": "wo",
+    "word": "脚"
+  },
+  {
+    "pron": "yem",
+    "word": "走"
+  },
+  {
+    "pron": "go",
+    "word": "跳"
+  },
+  {
+    "pron": "vua",
+    "word": "越"
+  },
+  {
+    "pron": "qang",
+    "word": "乗"
+  },
+  {
+    "pron": "nal",
+    "word": "兵"
+  },
+  {
+    "pron": "xung",
+    "word": "軍"
+  },
+  {
+    "pron": "bas",
+    "word": "戦"
+  },
+  {
+    "pron": "bascua",
+    "word": "戦船"
+  },
+  {
+    "pron": "puang",
+    "word": "皿"
+  },
+  {
+    "pron": "daopuang",
+    "word": "米皿"
+  },
+  {
+    "pron": "xu",
+    "word": "盤"
+  },
+  {
+    "pron": "xungxu",
+    "word": "軍盤"
+  },
+  {
+    "pron": "xubas",
+    "word": "盤戦"
+  },
+  {
+    "pron": "mis",
+    "word": "数"
+  },
+  {
+    "pron": "vao",
+    "word": "体"
+  },
+  {
+    "pron": "suo",
+    "word": "熱"
+  },
+  {
+    "pron": "vassuo",
+    "word": "天熱"
+  },
+  {
+    "pron": "suocun",
+    "word": "熱病"
+  },
+  {
+    "pron": "huo",
+    "word": "川"
+  },
+  {
+    "pron": "zo",
+    "word": "丘"
+  },
+  {
+    "pron": "wi",
+    "word": "交"
+  },
+  {
+    "pron": "vaswi",
+    "word": "天交"
+  },
+  {
+    "pron": "xaowi",
+    "word": "画交"
+  },
+  {
+    "pron": "ye",
+    "word": "巾"
+  },
+  {
+    "pron": "ju",
+    "word": "旭"
+  },
+  {
+    "pron": "juvas",
+    "word": "旭天"
+  },
+  {
+    "pron": "yao",
+    "word": "代"
+  },
+  {
+    "pron": "guong",
+    "word": "姉"
+  },
+  {
+    "pron": "qimguong",
+    "word": "大姉"
+  },
+  {
+    "pron": "mo",
+    "word": "隣"
+  },
+  {
+    "pron": "ma",
+    "word": "座"
+  },
+  {
+    "pron": "hil",
+    "word": "做"
+  },
+  {
+    "pron": "kusfeshil",
+    "word": "汝去做"
+  },
+  {
+    "pron": "hainuonu",
+    "word": "喜伴慶"
+  },
+  {
+    "pron": "xao",
+    "word": "画"
+  },
+  {
+    "pron": "xaoail",
+    "word": "画機"
+  },
+  {
+    "pron": "kexao",
+    "word": "目画"
+  },
+  {
+    "pron": "keail",
+    "word": "目機"
+  },
+  {
+    "pron": "kevul",
+    "word": "目報"
+  },
+  {
+    "pron": "ail",
+    "word": "能"
+  },
+  {
+    "pron": "li",
+    "word": "透"
+  },
+  {
+    "pron": "mi",
+    "word": "暁"
+  },
+  {
+    "pron": "mibaon",
+    "word": "暁果"
+  },
+  {
+    "pron": "nailmibaon",
+    "word": "固暁果"
+  },
+  {
+    "pron": "limibaon",
+    "word": "糖暁果"
+  },
+  {
+    "pron": "mising",
+    "word": "暁気"
+  },
+  {
+    "pron": "cang",
+    "word": "拠"
+  },
+  {
+    "pron": "hao",
+    "word": "仁"
+  },
+  {
+    "pron": "haoqim",
+    "word": "仁大"
+  },
+  {
+    "pron": "ho",
+    "word": "地"
+  },
+  {
+    "pron": "qimho",
+    "word": "大地"
+  },
+  {
+    "pron": "dai",
+    "word": "昇"
+  },
+  {
+    "pron": "yuon",
+    "word": "追"
+  },
+  {
+    "pron": "mu",
+    "word": "圧"
+  },
+  {
+    "pron": "a",
+    "word": "啊"
+  },
+  {
+    "pron": "na",
+    "word": "央"
+  },
+  {
+    "pron": "fi",
+    "word": "静"
+  },
+  {
+    "pron": "waing",
+    "word": "僻"
+  },
+  {
+    "pron": "yon",
+    "word": "森"
+  },
+  {
+    "pron": "ao",
+    "word": "万"
+  },
+  {
+    "pron": "jaim",
+    "word": "七"
+  },
+  {
+    "pron": "li",
+    "word": "八"
+  },
+  {
+    "pron": "yan",
+    "word": "九"
+  },
+  {
+    "pron": "bao",
+    "word": "零"
+  },
+  {
+    "pron": "tail",
+    "word": "十"
+  },
+  {
+    "pron": "pai",
+    "word": "百"
+  },
+  {
+    "pron": "tuong",
+    "word": "千"
+  },
+  {
+    "pron": "cim",
+    "word": "刻"
+  },
+  {
+    "pron": "gual",
+    "word": "分"
+  },
+  {
+    "pron": "la",
+    "word": "秒"
+  },
+  {
+    "pron": "cin",
+    "word": "田"
+  },
+  {
+    "pron": "hes",
+    "word": "永"
+  },
+  {
+    "pron": "hessua",
+    "word": "永印"
+  },
+  {
+    "pron": "naol",
+    "word": "問"
+  },
+  {
+    "pron": "lol",
+    "word": "如"
+  },
+  {
+    "pron": "mai",
+    "word": "宗"
+  },
+  {
+    "pron": "mimai",
+    "word": "暁宗"
+  },
+  {
+    "pron": "jai",
+    "word": "清"
+  },
+  {
+    "pron": "xai",
+    "word": "尿"
+  },
+  {
+    "pron": "hais",
+    "word": "石"
+  },
+  {
+    "pron": "haissi",
+    "word": "石炭"
+  },
+  {
+    "pron": "haisxu",
+    "word": "石油"
+  },
+  {
+    "pron": "lushais",
+    "word": "燃石"
+  },
+  {
+    "pron": "vuosduolhais",
+    "word": "赤粒石"
+  },
+  {
+    "pron": "kaingduolhais",
+    "word": "白粒石"
+  },
+  {
+    "pron": "xojuhais",
+    "word": "神旭石"
+  },
+  {
+    "pron": "ja",
+    "word": "瑠"
+  },
+  {
+    "pron": "jazua",
+    "word": "瑠瓶"
+  },
+  {
+    "pron": "nailja",
+    "word": "固瑠"
+  },
+  {
+    "pron": "jaluong",
+    "word": "瑠丸"
+  },
+  {
+    "pron": "keja",
+    "word": "目瑠"
+  },
+  {
+    "pron": "se",
+    "word": "泡"
+  },
+  {
+    "pron": "seye",
+    "word": "泡巾"
+  },
+  {
+    "pron": "gu",
+    "word": "箔"
+  },
+  {
+    "pron": "gulas",
+    "word": "箔筋"
+  },
+  {
+    "pron": "qilmainge",
+    "word": "与雷口"
+  },
+  {
+    "pron": "va",
+    "word": "金"
+  },
+  {
+    "pron": "tuo",
+    "word": "銀"
+  },
+  {
+    "pron": "qao",
+    "word": "銅"
+  },
+  {
+    "pron": "xao",
+    "word": "軽"
+  },
+  {
+    "pron": "min",
+    "word": "礬"
+  },
+  {
+    "pron": "vao",
+    "word": "黄"
+  },
+  {
+    "pron": "haom",
+    "word": "硫"
+  },
+  {
+    "pron": "nail",
+    "word": "固"
+  },
+  {
+    "pron": "nailnes",
+    "word": "固心"
+  },
+  {
+    "pron": "hesnail",
+    "word": "永固"
+  },
+  {
+    "pron": "hao",
+    "word": "鉄"
+  },
+  {
+    "pron": "nais",
+    "word": "骨"
+  },
+  {
+    "pron": "cun",
+    "word": "病"
+  },
+  {
+    "pron": "uo",
+    "word": "痛"
+  },
+  {
+    "pron": "buos",
+    "word": "包"
+  },
+  {
+    "pron": "za",
+    "word": "痘"
+  },
+  {
+    "pron": "taiza",
+    "word": "乳痘"
+  },
+  {
+    "pron": "nailza",
+    "word": "固痘"
+  },
+  {
+    "pron": "les",
+    "word": "創"
+  },
+  {
+    "pron": "lesha",
+    "word": "創人"
+  },
+  {
+    "pron": "tuam",
+    "word": "笑"
+  },
+  {
+    "pron": "wai",
+    "word": "穏"
+  },
+  {
+    "pron": "gais",
+    "word": "医"
+  },
+  {
+    "pron": "vain",
+    "word": "薬"
+  },
+  {
+    "pron": "ja",
+    "word": "糞"
+  },
+  {
+    "pron": "faong",
+    "word": "通"
+  },
+  {
+    "pron": "faongkuang",
+    "word": "通日"
+  },
+  {
+    "pron": "faongvo",
+    "word": "通月"
+  },
+  {
+    "pron": "faongvais",
+    "word": "通年"
+  },
+  {
+    "pron": "caom",
+    "word": "尻"
+  },
+  {
+    "pron": "il",
+    "word": "歯"
+  },
+  {
+    "pron": "ilnang",
+    "word": "歯肉"
+  },
+  {
+    "pron": "buail",
+    "word": "食歯"
+  },
+  {
+    "pron": "li",
+    "word": "糖"
+  },
+  {
+    "pron": "licai",
+    "word": "糖草"
+  },
+  {
+    "pron": "lihua",
+    "word": "糖氷"
+  },
+  {
+    "pron": "liluong",
+    "word": "糖丸"
+  },
+  {
+    "pron": "gum",
+    "word": "子"
+  },
+  {
+    "pron": "tai",
+    "word": "乳"
+  },
+  {
+    "pron": "taihua",
+    "word": "乳氷"
+  },
+  {
+    "pron": "do",
+    "word": "苦"
+  },
+  {
+    "pron": "suam",
+    "word": "鼻"
+  },
+  {
+    "pron": "suammu",
+    "word": "鼻圧"
+  },
+  {
+    "pron": "guol",
+    "word": "香"
+  },
+  {
+    "pron": "guolqo",
+    "word": "香杖"
+  },
+  {
+    "pron": "zua",
+    "word": "止"
+  },
+  {
+    "pron": "an",
+    "word": "重"
+  },
+  {
+    "pron": "ansing",
+    "word": "重気"
+  },
+  {
+    "pron": "yean",
+    "word": "紙重"
+  },
+  {
+    "pron": "vaoan",
+    "word": "体重"
+  },
+  {
+    "pron": "bao",
+    "word": "甲"
+  },
+  {
+    "pron": "vul",
+    "word": "乙"
+  },
+  {
+    "pron": "tao",
+    "word": "美"
+  },
+  {
+    "pron": "taoha",
+    "word": "美人"
+  },
+  {
+    "pron": "lai",
+    "word": "板"
+  },
+  {
+    "pron": "laiyao",
+    "word": "板楽"
+  },
+  {
+    "pron": "ai",
+    "word": "琥"
+  },
+  {
+    "pron": "xuai",
+    "word": "油琥"
+  },
+  {
+    "pron": "aiye",
+    "word": "琥巾"
+  },
+  {
+    "pron": "wem",
+    "word": "粘"
+  },
+  {
+    "pron": "wemao",
+    "word": "粘土"
+  },
+  {
+    "pron": "wemai",
+    "word": "粘琥"
+  },
+  {
+    "pron": "wemailuong",
+    "word": "粘琥丸"
+  },
+  {
+    "pron": "wemtai",
+    "word": "粘乳"
+  },
+  {
+    "pron": "naowemai",
+    "word": "消粘琥"
+  },
+  {
+    "pron": "naoai",
+    "word": "消琥"
+  },
+  {
+    "pron": "zua",
+    "word": "瓶"
+  },
+  {
+    "pron": "haozua",
+    "word": "鉄瓶"
+  },
+  {
+    "pron": "minzua",
+    "word": "礬瓶"
+  },
+  {
+    "pron": "aizua",
+    "word": "琥瓶"
+  },
+  {
+    "pron": "singzua",
+    "word": "気瓶"
+  },
+  {
+    "pron": "mainzua",
+    "word": "雷瓶"
+  },
+  {
+    "pron": "qaomainzua",
+    "word": "湛雷瓶"
+  },
+  {
+    "pron": "qaomain",
+    "word": "湛雷"
+  },
+  {
+    "pron": "wing",
+    "word": "高"
+  },
+  {
+    "pron": "wingbe",
+    "word": "高家"
+  },
+  {
+    "pron": "ye",
+    "word": "車"
+  },
+  {
+    "pron": "naiye",
+    "word": "力車"
+  },
+  {
+    "pron": "xunaiye",
+    "word": "油力車"
+  },
+  {
+    "pron": "mainnaiye",
+    "word": "雷力車"
+  },
+  {
+    "pron": "gimye",
+    "word": "道車"
+  },
+  {
+    "pron": "yegim",
+    "word": "車道"
+  },
+  {
+    "pron": "mailye",
+    "word": "衆車"
+  },
+  {
+    "pron": "basye",
+    "word": "戦車"
+  },
+  {
+    "pron": "ail",
+    "word": "機"
+  },
+  {
+    "pron": "dailail",
+    "word": "飛機"
+  },
+  {
+    "pron": "basdailail",
+    "word": "戦飛機"
+  },
+  {
+    "pron": "peldailail",
+    "word": "回飛機"
+  },
+  {
+    "pron": "suoail",
+    "word": "熱機"
+  },
+  {
+    "pron": "lusail",
+    "word": "燃機"
+  },
+  {
+    "pron": "laosingail",
+    "word": "整気機"
+  },
+  {
+    "pron": "bunail",
+    "word": "言機"
+  },
+  {
+    "pron": "ailbun",
+    "word": "機言"
+  },
+  {
+    "pron": "suaxaoail",
+    "word": "書画機"
+  },
+  {
+    "pron": "suaail",
+    "word": "印機"
+  },
+  {
+    "pron": "basail",
+    "word": "戦機"
+  },
+  {
+    "pron": "las",
+    "word": "机"
+  },
+  {
+    "pron": "luo",
+    "word": "椅"
+  },
+  {
+    "pron": "os",
+    "word": "席"
+  },
+  {
+    "pron": "vao",
+    "word": "求"
+  },
+  {
+    "pron": "sus",
+    "word": "帳"
+  },
+  {
+    "pron": "yuosus",
+    "word": "内帳"
+  },
+  {
+    "pron": "qosus",
+    "word": "字帳"
+  },
+  {
+    "pron": "bunsus",
+    "word": "言帳"
+  },
+  {
+    "pron": "yao",
+    "word": "楽"
+  },
+  {
+    "pron": "paon",
+    "word": "杯"
+  },
+  {
+    "pron": "qo",
+    "word": "杖"
+  },
+  {
+    "pron": "qain",
+    "word": "温"
+  },
+  {
+    "pron": "qainpaon",
+    "word": "温杯"
+  },
+  {
+    "pron": "guanpaon",
+    "word": "海杯"
+  },
+  {
+    "pron": "xaiyai",
+    "word": "浄場"
+  },
+  {
+    "pron": "jua",
+    "word": "音"
+  },
+  {
+    "pron": "jualai",
+    "word": "音板"
+  },
+  {
+    "pron": "we",
+    "word": "声"
+  },
+  {
+    "pron": "wevul",
+    "word": "声報"
+  },
+  {
+    "pron": "awe",
+    "word": "啊声"
+  },
+  {
+    "pron": "qai",
+    "word": "知"
+  },
+  {
+    "pron": "laomisqai",
+    "word": "整数知"
+  },
+  {
+    "pron": "cuangqai",
+    "word": "記知"
+  },
+  {
+    "pron": "qaiha",
+    "word": "知人"
+  },
+  {
+    "pron": "misqai",
+    "word": "数知"
+  },
+  {
+    "pron": "bunqai",
+    "word": "言知"
+  },
+  {
+    "pron": "saoqai",
+    "word": "思知"
+  },
+  {
+    "pron": "cuaqai",
+    "word": "則知"
+  },
+  {
+    "pron": "mailqai",
+    "word": "衆知"
+  },
+  {
+    "pron": "qaisao",
+    "word": "知思"
+  },
+  {
+    "pron": "vul",
+    "word": "報"
+  },
+  {
+    "pron": "vulye",
+    "word": "報紙"
+  },
+  {
+    "pron": "vulbun",
+    "word": "報言"
+  },
+  {
+    "pron": "fuavul",
+    "word": "世報"
+  },
+  {
+    "pron": "vulfuaha",
+    "word": "報世人"
+  },
+  {
+    "pron": "duavul",
+    "word": "広報"
+  },
+  {
+    "pron": "cua",
+    "word": "船"
+  },
+  {
+    "pron": "nel",
+    "word": "衣"
+  },
+  {
+    "pron": "wonel",
+    "word": "脚衣"
+  },
+  {
+    "pron": "faongnel",
+    "word": "通衣"
+  },
+  {
+    "pron": "puo",
+    "word": "団"
+  },
+  {
+    "pron": "kaing",
+    "word": "働"
+  },
+  {
+    "pron": "fe",
+    "word": "技"
+  },
+  {
+    "pron": "kao",
+    "word": "宝"
+  },
+  {
+    "pron": "guo",
+    "word": "信"
+  },
+  {
+    "pron": "juo",
+    "word": "結"
+  },
+  {
+    "pron": "juobuo",
+    "word": "結糸"
+  },
+  {
+    "pron": "mailjuo",
+    "word": "衆結"
+  },
+  {
+    "pron": "qil",
+    "word": "与"
+  },
+  {
+    "pron": "qao",
+    "word": "湛"
+  },
+  {
+    "pron": "jo",
+    "word": "多"
+  },
+  {
+    "pron": "ku",
+    "word": "貨"
+  },
+  {
+    "pron": "guku",
+    "word": "箔貨"
+  },
+  {
+    "pron": "yeku",
+    "word": "紙貨"
+  },
+  {
+    "pron": "mainku",
+    "word": "雷貨"
+  },
+  {
+    "pron": "mainkulai",
+    "word": "雷貨板"
+  },
+  {
+    "pron": "kumail",
+    "word": "貨衆"
+  },
+  {
+    "pron": "kuluam",
+    "word": "貨王"
+  },
+  {
+    "pron": "qaoku",
+    "word": "湛貨"
+  },
+  {
+    "pron": "kaingmail",
+    "word": "働衆"
+  },
+  {
+    "pron": "yaomail",
+    "word": "楽衆"
+  },
+  {
+    "pron": "juaail",
+    "word": "音機"
+  },
+  {
+    "pron": "cail",
+    "word": "奏"
+  },
+  {
+    "pron": "cailail",
+    "word": "奏機"
+  },
+  {
+    "pron": "pais",
+    "word": "危"
+  },
+  {
+    "pron": "paisjua",
+    "word": "危音"
+  },
+  {
+    "pron": "paisjuaail",
+    "word": "危音機"
+  },
+  {
+    "pron": "paisvul",
+    "word": "危報"
+  },
+  {
+    "pron": "gua",
+    "word": "憤"
+  },
+  {
+    "pron": "hogua",
+    "word": "地憤"
+  },
+  {
+    "pron": "dasgua",
+    "word": "山憤"
+  },
+  {
+    "pron": "guadas",
+    "word": "憤山"
+  },
+  {
+    "pron": "tanggua",
+    "word": "火憤"
+  },
+  {
+    "pron": "tu",
+    "word": "暗"
+  },
+  {
+    "pron": "tunes",
+    "word": "暗心"
+  },
+  {
+    "pron": "qua",
+    "word": "隠"
+  },
+  {
+    "pron": "donqua",
+    "word": "故隠"
+  },
+  {
+    "pron": "quavul",
+    "word": "隠報"
+  },
+  {
+    "pron": "quavulha",
+    "word": "隠報人"
+  },
+  {
+    "pron": "quabun",
+    "word": "隠言"
+  },
+  {
+    "pron": "xal",
+    "word": "訓"
+  },
+  {
+    "pron": "xalha",
+    "word": "訓人"
+  },
+  {
+    "pron": "pa",
+    "word": "守"
+  },
+  {
+    "pron": "pabunha",
+    "word": "守言人"
+  },
+  {
+    "pron": "paluong",
+    "word": "守丸"
+  },
+  {
+    "pron": "bua",
+    "word": "母"
+  },
+  {
+    "pron": "paong",
+    "word": "夫"
+  },
+  {
+    "pron": "puon",
+    "word": "古"
+  },
+  {
+    "pron": "puonge",
+    "word": "古事"
+  },
+  {
+    "pron": "lim",
+    "word": "架"
+  },
+  {
+    "pron": "limha",
+    "word": "架人"
+  },
+  {
+    "pron": "di",
+    "word": "壁"
+  },
+  {
+    "pron": "muosdi",
+    "word": "等壁"
+  },
+  {
+    "pron": "lua",
+    "word": "帝"
+  },
+  {
+    "pron": "luanun",
+    "word": "帝国"
+  },
+  {
+    "pron": "zomnun",
+    "word": "民国"
+  },
+  {
+    "pron": "mailnun",
+    "word": "衆国"
+  },
+  {
+    "pron": "xos",
+    "word": "態"
+  },
+  {
+    "pron": "ge",
+    "word": "事"
+  },
+  {
+    "pron": "muo",
+    "word": "模"
+  },
+  {
+    "pron": "pis",
+    "word": "由"
+  },
+  {
+    "pron": "quom",
+    "word": "遍"
+  },
+  {
+    "pron": "quomsao",
+    "word": "遍思"
+  },
+  {
+    "pron": "quomha",
+    "word": "遍人"
+  },
+  {
+    "pron": "hai",
+    "word": "福"
+  },
+  {
+    "pron": "je",
+    "word": "被"
+  },
+  {
+    "pron": "he",
+    "word": "違"
+  },
+  {
+    "pron": "hehil",
+    "word": "違做"
+  },
+  {
+    "pron": "hege",
+    "word": "違事"
+  },
+  {
+    "pron": "nao",
+    "word": "消"
+  },
+  {
+    "pron": "co",
+    "word": "岐"
+  },
+  {
+    "pron": "cogim",
+    "word": "岐道"
+  },
+  {
+    "pron": "wel",
+    "word": "法"
+  },
+  {
+    "pron": "cua",
+    "word": "則"
+  },
+  {
+    "pron": "nuncua",
+    "word": "国則"
+  },
+  {
+    "pron": "henun",
+    "word": "違国"
+  },
+  {
+    "pron": "luacua",
+    "word": "帝則"
+  },
+  {
+    "pron": "we",
+    "word": "歌"
+  },
+  {
+    "pron": "weha",
+    "word": "歌人"
+  },
+  {
+    "pron": "cuam",
+    "word": "陰"
+  },
+  {
+    "pron": "nim",
+    "word": "真"
+  },
+  {
+    "pron": "nimge",
+    "word": "真事"
+  },
+  {
+    "pron": "nimbun",
+    "word": "真言"
+  },
+  {
+    "pron": "cung",
+    "word": "血"
+  },
+  {
+    "pron": "cungbaon",
+    "word": "血果"
+  },
+  {
+    "pron": "xes",
+    "word": "崩"
+  },
+  {
+    "pron": "xesnao",
+    "word": "崩消"
+  },
+  {
+    "pron": "mai",
+    "word": "奪"
+  },
+  {
+    "pron": "maiha",
+    "word": "奪人"
+  },
+  {
+    "pron": "cuo",
+    "word": "為"
+  },
+  {
+    "pron": "yuas",
+    "word": "後"
+  },
+  {
+    "pron": "val",
+    "word": "新"
+  },
+  {
+    "pron": "fua",
+    "word": "肌"
+  },
+  {
+    "pron": "caifua",
+    "word": "話肌"
+  },
+  {
+    "pron": "ka",
+    "word": "顔"
+  },
+  {
+    "pron": "luska",
+    "word": "燃顔"
+  },
+  {
+    "pron": "kal",
+    "word": "眉"
+  },
+  {
+    "pron": "kebuos",
+    "word": "目包"
+  },
+  {
+    "pron": "buoske",
+    "word": "包目"
+  },
+  {
+    "pron": "caos",
+    "word": "流"
+  },
+  {
+    "pron": "jua",
+    "word": "落"
+  },
+  {
+    "pron": "goke",
+    "word": "跳目"
+  },
+  {
+    "pron": "kego",
+    "word": "目跳"
+  },
+  {
+    "pron": "ve",
+    "word": "睫"
+  },
+  {
+    "pron": "me",
+    "word": "耳"
+  },
+  {
+    "pron": "do",
+    "word": "頬"
+  },
+  {
+    "pron": "fail",
+    "word": "唇"
+  },
+  {
+    "pron": "lusdo",
+    "word": "燃頬"
+  },
+  {
+    "pron": "nua",
+    "word": "舌"
+  },
+  {
+    "pron": "juonua",
+    "word": "結舌"
+  },
+  {
+    "pron": "juonuaha",
+    "word": "結舌人"
+  },
+  {
+    "pron": "cai",
+    "word": "話"
+  },
+  {
+    "pron": "himcai",
+    "word": "造話"
+  },
+  {
+    "pron": "saocai",
+    "word": "思話"
+  },
+  {
+    "pron": "suacaiha",
+    "word": "書話人"
+  },
+  {
+    "pron": "ji",
+    "word": "頤"
+  },
+  {
+    "pron": "fao",
+    "word": "顎"
+  },
+  {
+    "pron": "kua",
+    "word": "額"
+  },
+  {
+    "pron": "sas",
+    "word": "喉"
+  },
+  {
+    "pron": "sasluong",
+    "word": "喉丸"
+  },
+  {
+    "pron": "bais",
+    "word": "毛"
+  },
+  {
+    "pron": "baisbais",
+    "word": "毛毛"
+  },
+  {
+    "pron": "wao",
+    "word": "髪"
+  },
+  {
+    "pron": "pail",
+    "word": "髭"
+  },
+  {
+    "pron": "sa",
+    "word": "鬚"
+  },
+  {
+    "pron": "kaim",
+    "word": "根"
+  },
+  {
+    "pron": "taoskaim",
+    "word": "手根"
+  },
+  {
+    "pron": "yuaskaim",
+    "word": "足根"
+  },
+  {
+    "pron": "yo",
+    "word": "茎"
+  },
+  {
+    "pron": "cum",
+    "word": "首"
+  },
+  {
+    "pron": "kuol",
+    "word": "肩"
+  },
+  {
+    "pron": "huon",
+    "word": "胸"
+  },
+  {
+    "pron": "qe",
+    "word": "奶"
+  },
+  {
+    "pron": "qais",
+    "word": "腹"
+  },
+  {
+    "pron": "cao",
+    "word": "背"
+  },
+  {
+    "pron": "nol",
+    "word": "腕"
+  },
+  {
+    "pron": "ailnol",
+    "word": "機腕"
+  },
+  {
+    "pron": "nolail",
+    "word": "腕機"
+  },
+  {
+    "pron": "nolye",
+    "word": "腕車"
+  },
+  {
+    "pron": "suol",
+    "word": "並"
+  },
+  {
+    "pron": "guo",
+    "word": "脇"
+  },
+  {
+    "pron": "tim",
+    "word": "肘"
+  },
+  {
+    "pron": "hu",
+    "word": "掌"
+  },
+  {
+    "pron": "yuo",
+    "word": "指"
+  },
+  {
+    "pron": "yuobun",
+    "word": "指言"
+  },
+  {
+    "pron": "sin",
+    "word": "爪"
+  },
+  {
+    "pron": "don",
+    "word": "故"
+  },
+  {
+    "pron": "taim",
+    "word": "膝"
+  },
+  {
+    "pron": "laol",
+    "word": "踵"
+  },
+  {
+    "pron": "mua",
+    "word": "跂"
+  },
+  {
+    "pron": "xua",
+    "word": "息"
+  },
+  {
+    "pron": "ke",
+    "word": "涙"
+  },
+  {
+    "pron": "laosuam",
+    "word": "整鼻"
+  },
+  {
+    "pron": "lobua",
+    "word": "眠食"
+  },
+  {
+    "pron": "dol",
+    "word": "餐"
+  },
+  {
+    "pron": "himdol",
+    "word": "造餐"
+  },
+  {
+    "pron": "judol",
+    "word": "旭餐"
+  },
+  {
+    "pron": "jaidol",
+    "word": "昼餐"
+  },
+  {
+    "pron": "domdol",
+    "word": "夕餐"
+  },
+  {
+    "pron": "laidol",
+    "word": "夜餐"
+  },
+  {
+    "pron": "dom",
+    "word": "夕"
+  },
+  {
+    "pron": "loyol",
+    "word": "眠獣"
+  },
+  {
+    "pron": "pang",
+    "word": "吹"
+  },
+  {
+    "pron": "qon",
+    "word": "悪"
+  },
+  {
+    "pron": "xaing",
+    "word": "魔"
+  },
+  {
+    "pron": "vasxaing",
+    "word": "天魔"
+  },
+  {
+    "pron": "cunxaing",
+    "word": "病魔"
+  },
+  {
+    "pron": "lao",
+    "word": "鬼"
+  },
+  {
+    "pron": "kong",
+    "word": "出"
+  },
+  {
+    "pron": "juom",
+    "word": "入"
+  },
+  {
+    "pron": "ne",
+    "word": "吐"
+  },
+  {
+    "pron": "bai",
+    "word": "嘔"
+  },
+  {
+    "pron": "o",
+    "word": "吸"
+  },
+  {
+    "pron": "hai",
+    "word": "絞"
+  },
+  {
+    "pron": "haijuo",
+    "word": "絞結"
+  },
+  {
+    "pron": "duo",
+    "word": "経"
+  },
+  {
+    "pron": "buom",
+    "word": "店"
+  },
+  {
+    "pron": "laowaobuom",
+    "word": "整髪店"
+  },
+  {
+    "pron": "dolbuom",
+    "word": "餐店"
+  },
+  {
+    "pron": "kubuom",
+    "word": "貨店"
+  },
+  {
+    "pron": "kubuomail",
+    "word": "貨店機"
+  },
+  {
+    "pron": "xing",
+    "word": "庵"
+  },
+  {
+    "pron": "laixing",
+    "word": "夜庵"
+  },
+  {
+    "pron": "yaomxing",
+    "word": "行庵"
+  },
+  {
+    "pron": "vu",
+    "word": "活"
+  },
+  {
+    "pron": "vaovuwai",
+    "word": "求活穏"
+  },
+  {
+    "pron": "nuovuwai",
+    "word": "伴活穏"
+  },
+  {
+    "pron": "ga",
+    "word": "妹"
+  },
+  {
+    "pron": "qimga",
+    "word": "大妹"
+  },
+  {
+    "pron": "i",
+    "word": "弟"
+  },
+  {
+    "pron": "qimi",
+    "word": "大弟"
+  },
+  {
+    "pron": "wes",
+    "word": "兄"
+  },
+  {
+    "pron": "qimwes",
+    "word": "大兄"
+  },
+  {
+    "pron": "yaos",
+    "word": "父"
+  },
+  {
+    "pron": "vai",
+    "word": "測"
+  },
+  {
+    "pron": "vaisuo",
+    "word": "測熱"
+  },
+  {
+    "pron": "vailung",
+    "word": "測木"
+  },
+  {
+    "pron": "vaian",
+    "word": "測重"
+  },
+  {
+    "pron": "vaipaon",
+    "word": "測杯"
+  },
+  {
+    "pron": "so",
+    "word": "巻"
+  },
+  {
+    "pron": "sovai",
+    "word": "巻測"
+  },
+  {
+    "pron": "sovo",
+    "word": "巻針"
+  },
+  {
+    "pron": "xemsovo",
+    "word": "平巻針"
+  },
+  {
+    "pron": "xuam",
+    "word": "麺"
+  },
+  {
+    "pron": "wai",
+    "word": "餅"
+  },
+  {
+    "pron": "baonwai",
+    "word": "果餅"
+  },
+  {
+    "pron": "qa",
+    "word": "焼"
+  },
+  {
+    "pron": "qawai",
+    "word": "焼餅"
+  },
+  {
+    "pron": "puo",
+    "word": "汁"
+  },
+  {
+    "pron": "lipuo",
+    "word": "糖汁"
+  },
+  {
+    "pron": "baonpuo",
+    "word": "果汁"
+  },
+  {
+    "pron": "taixu",
+    "word": "乳油"
+  },
+  {
+    "pron": "xuqawai",
+    "word": "油焼餅"
+  },
+  {
+    "pron": "taise",
+    "word": "乳泡"
+  },
+  {
+    "pron": "puoxuam",
+    "word": "汁麺"
+  },
+  {
+    "pron": "buoswai",
+    "word": "包餅"
+  },
+  {
+    "pron": "qaail",
+    "word": "焼機"
+  },
+  {
+    "pron": "mainqa",
+    "word": "雷焼"
+  },
+  {
+    "pron": "fun",
+    "word": "鏡"
+  },
+  {
+    "pron": "funja",
+    "word": "鏡瑠"
+  },
+  {
+    "pron": "caon",
+    "word": "拡"
+  },
+  {
+    "pron": "caonja",
+    "word": "拡瑠"
+  },
+  {
+    "pron": "salkeja",
+    "word": "遠目瑠"
+  },
+  {
+    "pron": "mainke",
+    "word": "雷目"
+  },
+  {
+    "pron": "vo",
+    "word": "針"
+  },
+  {
+    "pron": "vuvo",
+    "word": "向針"
+  },
+  {
+    "pron": "vovain",
+    "word": "針薬"
+  },
+  {
+    "pron": "cuokeja",
+    "word": "虫目瑠"
+  },
+  {
+    "pron": "muong",
+    "word": "卵"
+  },
+  {
+    "pron": "taibuoswai",
+    "word": "乳包餅"
+  },
+  {
+    "pron": "lingyaos",
+    "word": "上父"
+  },
+  {
+    "pron": "lingbua",
+    "word": "上母"
+  },
+  {
+    "pron": "dao",
+    "word": "鳥"
+  },
+  {
+    "pron": "ba",
+    "word": "犬"
+  },
+  {
+    "pron": "cuom",
+    "word": "猫"
+  },
+  {
+    "pron": "muongfuon",
+    "word": "卵周"
+  },
+  {
+    "pron": "muongna",
+    "word": "卵央"
+  },
+  {
+    "pron": "xem",
+    "word": "平"
+  },
+  {
+    "pron": "xemna",
+    "word": "平刃"
+  },
+  {
+    "pron": "xai",
+    "word": "浄"
+  },
+  {
+    "pron": "xainel",
+    "word": "浄衣"
+  },
+  {
+    "pron": "nelxai",
+    "word": "衣浄"
+  },
+  {
+    "pron": "nelxaiail",
+    "word": "衣浄機"
+  },
+  {
+    "pron": "so",
+    "word": "乾"
+  },
+  {
+    "pron": "sotai",
+    "word": "乾乳"
+  },
+  {
+    "pron": "sonel",
+    "word": "乾衣"
+  },
+  {
+    "pron": "sowai",
+    "word": "乾餅"
+  },
+  {
+    "pron": "xemluong",
+    "word": "平丸"
+  },
+  {
+    "pron": "kuangso",
+    "word": "日乾"
+  },
+  {
+    "pron": "soxaing",
+    "word": "乾魔"
+  },
+  {
+    "pron": "xaitaos",
+    "word": "浄手"
+  },
+  {
+    "pron": "xaicuo",
+    "word": "浄虫"
+  },
+  {
+    "pron": "kuon",
+    "word": "玉"
+  },
+  {
+    "pron": "baonxu",
+    "word": "果油"
+  },
+  {
+    "pron": "xudol",
+    "word": "油餐"
+  },
+  {
+    "pron": "ais",
+    "word": "酒"
+  },
+  {
+    "pron": "cungais",
+    "word": "血酒"
+  },
+  {
+    "pron": "suom",
+    "word": "握"
+  },
+  {
+    "pron": "suomhai",
+    "word": "握絞"
+  },
+  {
+    "pron": "dua",
+    "word": "掃"
+  },
+  {
+    "pron": "xaidua",
+    "word": "浄掃"
+  },
+  {
+    "pron": "laosin",
+    "word": "整爪"
+  },
+  {
+    "pron": "huodua",
+    "word": "雨掃"
+  },
+  {
+    "pron": "uo",
+    "word": "味"
+  },
+  {
+    "pron": "tuouo",
+    "word": "倫味"
+  },
+  {
+    "pron": "qonuo",
+    "word": "悪味"
+  },
+  {
+    "pron": "naouo",
+    "word": "消味"
+  },
+  {
+    "pron": "qimuoha",
+    "word": "大味人"
+  },
+  {
+    "pron": "naim",
+    "word": "集"
+  },
+  {
+    "pron": "naimso",
+    "word": "集巻"
+  },
+  {
+    "pron": "nu",
+    "word": "慶"
+  },
+  {
+    "pron": "vung",
+    "word": "敬"
+  },
+  {
+    "pron": "del",
+    "word": "焉"
+  },
+  {
+    "pron": "pi",
+    "word": "片"
+  },
+  {
+    "pron": "nangpi",
+    "word": "肉片"
+  },
+  {
+    "pron": "pigu",
+    "word": "片箔"
+  },
+  {
+    "pron": "minguye",
+    "word": "礬箔巾"
+  },
+  {
+    "pron": "vaye",
+    "word": "金巾"
+  },
+  {
+    "pron": "we",
+    "word": "動"
+  },
+  {
+    "pron": "duon",
+    "word": "籠"
+  },
+  {
+    "pron": "faduon",
+    "word": "筆籠"
+  },
+  {
+    "pron": "nelduon",
+    "word": "衣籠"
+  },
+  {
+    "pron": "kao",
+    "word": "物"
+  },
+  {
+    "pron": "baimmis",
+    "word": "居数"
+  },
+  {
+    "pron": "ung",
+    "word": "探"
+  },
+  {
+    "pron": "ungmua",
+    "word": "探網"
+  },
+  {
+    "pron": "xaos",
+    "word": "花"
+  },
+  {
+    "pron": "buo",
+    "word": "算"
+  },
+  {
+    "pron": "naimbuo",
+    "word": "集算"
+  },
+  {
+    "pron": "naobuo",
+    "word": "消算"
+  },
+  {
+    "pron": "jobuo",
+    "word": "多算"
+  },
+  {
+    "pron": "nabuo",
+    "word": "刃算"
+  },
+  {
+    "pron": "buomis",
+    "word": "算数"
+  },
+  {
+    "pron": "xemmis",
+    "word": "平数"
+  },
+  {
+    "pron": "wailo",
+    "word": "穏眠"
+  },
+  {
+    "pron": "co",
+    "word": "蒼"
+  },
+  {
+    "pron": "tao",
+    "word": "春"
+  },
+  {
+    "pron": "nua",
+    "word": "豊"
+  },
+  {
+    "pron": "nuavo",
+    "word": "豊月"
+  },
+  {
+    "pron": "cis",
+    "word": "夏"
+  },
+  {
+    "pron": "pua",
+    "word": "葉"
+  },
+  {
+    "pron": "puaha",
+    "word": "葉人"
+  },
+  {
+    "pron": "mel",
+    "word": "秋"
+  },
+  {
+    "pron": "xon",
+    "word": "冬"
+  },
+  {
+    "pron": "jual",
+    "word": "名"
+  },
+  {
+    "pron": "gebun",
+    "word": "事言"
+  },
+  {
+    "pron": "gojuom",
+    "word": "跳入"
+  },
+  {
+    "pron": "dual",
+    "word": "緑"
+  },
+  {
+    "pron": "xaocai",
+    "word": "軽草"
+  },
+  {
+    "pron": "lua",
+    "word": "定"
+  },
+  {
+    "pron": "vailua",
+    "word": "測定"
+  },
+  {
+    "pron": "juanfuonlua",
+    "word": "珠周定"
+  },
+  {
+    "pron": "qaocua",
+    "word": "湛則"
+  },
+  {
+    "pron": "tailqaocua",
+    "word": "十湛則"
+  },
+  {
+    "pron": "tailfaiqaocua",
+    "word": "十四湛則"
+  },
+  {
+    "pron": "buanqaocua",
+    "word": "二湛則"
+  },
+  {
+    "pron": "baoqaocua",
+    "word": "甲湛則"
+  },
+  {
+    "pron": "yos",
+    "word": "弓"
+  },
+  {
+    "pron": "sai",
+    "word": "弩"
+  },
+  {
+    "pron": "yossai",
+    "word": "弓弩"
+  },
+  {
+    "pron": "mo",
+    "word": "据"
+  },
+  {
+    "pron": "quotang",
+    "word": "立火"
+  },
+  {
+    "pron": "motangsai",
+    "word": "据火弩"
+  },
+  {
+    "pron": "sailuong",
+    "word": "弩丸"
+  },
+  {
+    "pron": "momo",
+    "word": "据隣"
+  },
+  {
+    "pron": "juan",
+    "word": "珠"
+  },
+  {
+    "pron": "gan",
+    "word": "羅"
+  },
+  {
+    "pron": "mailgan",
+    "word": "衆羅"
+  },
+  {
+    "pron": "je",
+    "word": "取"
+  },
+  {
+    "pron": "jepi",
+    "word": "取片"
+  }
+]

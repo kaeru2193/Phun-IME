@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+}
+
+.phunTitle, .suggestWord, #output {
+    font-family: "PhunWrite";
+}
+
+.inputMain {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.inputMain #suggest {
+    text-align: left;
+}
+
+#suggest {
+    height: 2em;
+}
+
+.suggestWord {
+    font-size: 24px;
+    margin-right: 0.5em
+}
+
+.suggestIndex {
+    font-size: 16px;
+}
+
+#pron, #output {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px #014f41 solid;
+}
+
+#copy {
+    color: white;
+    background-color: #014f41;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#pron {
+    font-size: 20px;
+}
+
+#output {
+    height: 10em;
+    resize: none;
+    font-size: 24px;
+}
+
+#copy {
+    margin: 10px 0 0 0;
+    font-size: 16px;
+}
+
+#message {
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.hideMessage {
+    display: none;
+}
+
+@font-face {
+    font-family: "PhunWrite";
+    src: url(../fonts/PhunWrite-Latest.woff) format("woff");
+}
